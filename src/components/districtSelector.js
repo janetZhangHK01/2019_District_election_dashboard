@@ -8,7 +8,7 @@ import FormControl from 'react-bootstrap/FormControl'
 import Card from 'react-bootstrap/Card'
 import allSmallArea from '../smallArea/allSmallArea.json'
 // dashborad
-import voter from "../smallArea/voter.json"
+import voter from "../smallArea/voter.js"
 import {HorizontalBar} from 'react-chartjs-2';
 import {Doughnut} from 'react-chartjs-2';
 
